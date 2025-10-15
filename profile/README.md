@@ -12,9 +12,9 @@ If you're new to UB GitHub or software development at UB, start here:
 
 Once you have access, you'll be able to:
 
--   Join UB GitHub Enterprise Organizations (such as `ubuffalo-developer`)
--   Explore detailed onboarding documentation
--   Access internal **how‑tos**, **tutorials**, and **training resources**
+- Join UB GitHub Enterprise Organizations (such as `ubuffalo-developer`)
+- Explore detailed onboarding documentation
+- Access internal **how‑tos**, **tutorials**, and **training resources**
 
 🔗 **UB Enterprise Members:** Visit the [UB Developer Internal Landing Page](https://github.com/ubuffalo-developer/landing-page) for internal onboarding, learning resources, and deployment guides.
 
