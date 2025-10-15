@@ -20,4 +20,3 @@ Once you have access, you'll be able to:
 
 This is the **public landing page**.
 Internal documentation, examples, and guides are visible **only to UB GitHub Enterprise Organization members**.
-To request access, visit the link above.
