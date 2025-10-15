@@ -16,6 +16,8 @@ Once you have access, you'll be able to:
 -   Explore detailed onboarding documentation
 -   Access internal **how‑tos**, **tutorials**, and **training resources**
 
+🔗 **UB Enterprise Members:** Visit the [UB Developer Internal Landing Page](https://github.com/ubuffalo-developer/landing-page) for internal onboarding, learning resources, and deployment guides.
+
 ## ℹ️ About this page
 
 This is the **public landing page**.
